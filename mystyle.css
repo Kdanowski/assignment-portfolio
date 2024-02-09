@@ -11,6 +11,18 @@ container {
 h1 {
     background-color: grey;
     padding: 20px;
+    border-radius: 25px;
+    border: 2px;
+    display: inline-block;
+    color: white;
+    margin-left: 20px;
+}
+
+links {
+    background-color: grey;
+    padding: 20px;
+    border-radius: 25px;
+    border: 2px;
     color: white;
     margin-left: 20px;
 }
