@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(62, 63, 64);
 }
 
 container {
@@ -9,6 +9,6 @@ container {
 }
   
 h1 {
-    color: navy;
+    color: white;
     margin-left: 20px;
 }
