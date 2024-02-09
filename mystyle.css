@@ -2,7 +2,7 @@ body {
     background-color: rgb(73, 73, 73);
 }
 
-container {
+.container {
     width: 80%;
     margin: auto;
     overflow: hidden;
@@ -17,7 +17,7 @@ h1 {
     margin-left: 20px;
 }
 
-links {
+.links {
     background-color: grey;
     padding: 20px;
     border-radius: 25px;
