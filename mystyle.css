@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(62, 63, 64);
+    background-color: rgb(73, 73, 73);
 }
 
 container {
-    background-color: grey;
+    background-color: rgb(105, 103, 103);
     width: 90%;
     margin: auto;
     overflow: hidden;
